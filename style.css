@@ -1,0 +1,106 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	list-style-type: none;
+}
+body {
+	color: #333;
+	font-family: helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.best-shared{
+	margin:  20px auto;
+	text-align: center;
+	width: 800px;
+}
+
+.logo{
+	margin-bottom: 15px;
+}
+.best-shared h2{
+	font-size: 45px;
+	font-weight: nomarl;
+	margin-bottom: 25px;
+}
+.best-shared h2 strong{
+	color: #13DFF7;
+	font-weight: 600;
+}
+
+.lead-text{
+	margin-bottom: 35px;
+}
+
+.button{
+	text-align: center;
+
+}
+.button li{
+	display: inline;
+	margin: 0 12px;
+}
+.button li a{
+	background: #2d3032;
+	border-radius: 4px;
+	color: #fff;
+	display:  inline-block;
+	height: 56px;
+	line-height: 56px;
+	min-width: 120px;
+	transition: 1s all;
+	
+}
+.button li a:hover{
+	background-color: #00aeef;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
